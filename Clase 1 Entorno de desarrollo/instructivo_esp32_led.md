@@ -18,8 +18,11 @@ Este instructivo te guiará paso a paso para configurar el entorno de desarrollo
 ## 📹 Video con la clase completa:
 
 Aqui puedes ver la clase completa en formato video o bien puedes seguir el instructivo paso a paso que se ve a continuación:
-👉 [![Ver en YouTube]()](https://www.youtube.com/watch?v=7wvwOm2fLFk)
 
+
+<a href="https://www.youtube.com/watch?v=7wvwOm2fLFk" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0f50aed8-1239-45bd-84bc-30879cc10f85" width="505" height="286" alt="capturaMin" />
+</a>
 
 ### 1️⃣ Descargar e instalar el IDE de Arduino
 
@@ -74,5 +77,8 @@ void loop() {
 Presiona el botón **"Subir"** en el IDE para cargar el programa a la placa.
 
 ✔️ Si todo está correcto, verás encenderse el LED conectado al **pin 2** del ESP32.
+
+<img src="https://github.com/user-attachments/assets/92565322-2e7e-441b-814a-b0836014f77c" width="280" height="230" alt="Imagen ESP32 LED AZUL" />
+
 
 ---
