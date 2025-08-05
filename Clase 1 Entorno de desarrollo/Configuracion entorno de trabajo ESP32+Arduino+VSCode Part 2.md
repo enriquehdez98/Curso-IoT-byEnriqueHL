@@ -1,8 +1,14 @@
-# Guía rápida para programar ESP32 con PlatformIO en VSCode
+# Configuracion entorno de trabajo ESP32+Arduino+VSCode Part 2
 
 Sigue estos pasos para configurar tu entorno de desarrollo con PlatformIO y programar un ESP32 usando el framework de Arduino.
 
 ---
+## 0. Video tutorial 
+<a href="https://youtu.be/yTzPxGvbUaE" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0f50aed8-1239-45bd-84bc-30879cc10f85" width="505" height="286" alt="capturaMin" />
+</a>
+
+
 
 ## 1. Instala Visual Studio Code
 
