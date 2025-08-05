@@ -13,9 +13,16 @@ Evaluar e implementar sistemas de dispositivos interconectados basados en tecnol
 El repositorio está organizado en tres módulos temáticos, conforme al programa oficial:
 
 - **Unidad 1 – Panorama del IoT:**  
-  [Introducción conceptual al Internet de las Cosas, aplicaciones y su rol en la Industria](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%200%20Teoria%20Fundamentos%20IoT/FundamentosDeIoTpdf.pdf)
-  [Parte 1 - Configuración del entorno de trabajo VSCode + Platformio + Arduino + ESP32](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%201%20Entorno%20de%20desarrollo/Configuracion%20entorno%20de%20trabajo%20ESP32%2BArduino%2BVSCode%20Part%201.md)
-  [Parte 2 - Configuración del entorno de trabajo VSCode + Platformio + Arduino + ESP32](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%201%20Entorno%20de%20desarrollo/Configuracion%20entorno%20de%20trabajo%20ESP32%2BArduino%2BVSCode%20Part%202.md)
+  - [Introducción conceptual al Internet de las Cosas, aplicaciones y su rol en la Industria](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%200%20Teoria%20Fundamentos%20IoT/FundamentosDeIoTpdf.pdf)
+  - [Parte 1 - Configuración del entorno de trabajo VSCode + Platformio + Arduino + ESP32](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%201%20Entorno%20de%20desarrollo/Configuracion%20entorno%20de%20trabajo%20ESP32%2BArduino%2BVSCode%20Part%201.md)
+  - [Parte 2 - Configuración del entorno de trabajo VSCode + Platformio + Arduino + ESP32](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%201%20Entorno%20de%20desarrollo/Configuracion%20entorno%20de%20trabajo%20ESP32%2BArduino%2BVSCode%20Part%202.md)
+  - Lecturas Recomendadas:
+    - [Paradigma IoT: desde su conceptualización hacia su
+ aplicación en la agricultura](https://www.revistaespacios.com/a19v40n18/a19v40n18p06.pdf)
+    - [Introducción a protocolos IoT
+](https://www.gotoiot.com/pages/articles/iot_protocols_intro/index.html)
+
+  
 
 - **Unidad 2 – Hardware para IoT:**  
   Estudio y uso de placas de desarrollo (Arduino, Raspberry Pi), sensores, actuadores y su programación.
