@@ -26,10 +26,20 @@ El repositorio está organizado en tres módulos temáticos, conforme al program
 
 - **Unidad 2 – Hardware para IoT:**  
   Estudio y uso de placas de desarrollo (Arduino, Raspberry Pi), sensores, actuadores y su programación.
+  - Fundamentos teoricos de sensores y actuadores (proximamente)
+  - [Práctica sensor digital DH11](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20ESP32%20%2B%20DH11/ESP32_DH11.md)
+  - Práctica sensor analógico (proximamente)
+  - Práctica de actuadores (proximamente)
   
 
 - **Unidad 3 – Software para IoT:**  
   Protocolos de comunicación (MQTT), servicios en la nube (AWS), y control de versiones.
+  - [Conexión ESP32 a Wi-Fi](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%203%20Conexion%20a%20internet/0%20Conexion%20WIFI/ConexionWifi.md)
+  - [ESP32 Modo Cliente + DH11](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%203%20Conexion%20a%20internet/1%20Modo%20cliente/Clase3_1_EnviarDatosComoCliente.md)
+  - ESP32 como Servidor Web (Proximamente)
+  - Fundamentos de Protocolo MQTT (Proximamente)
+  - Practica MQTT enviar y recibir datos (Proximamente)
+  - ESP32 + AWS (Proximamente)
 
 ## ¿Qué encontrarás aquí?
 
