@@ -27,7 +27,7 @@ El repositorio está organizado en tres módulos temáticos, conforme al program
 - **Unidad 2 – Hardware para IoT:**  
   Estudio y uso de placas de desarrollo (Arduino, Raspberry Pi), sensores, actuadores y su programación.
   - [Placa de desarrollo ESP32](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Placas_de_desarrollo_ESP32.pdf)
-  - [Fundamentos teoricos de sensores y actuadores]([proximamente](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Fundamentos_sensore_y_actuadores.pdf))
+  - [Fundamentos teoricos de sensores y actuadores](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Fundamentos_sensore_y_actuadores.pdf)
   - [Práctica sensor digital DH11](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20ESP32%20%2B%20DH11/ESP32_DH11.md)
   - Práctica sensor analógico (proximamente)
   - Práctica de actuadores (proximamente)
