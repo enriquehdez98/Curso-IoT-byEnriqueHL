@@ -56,9 +56,9 @@ void loop() {
 
 Y en tu protoboard o en la simulación reliza la siguiente conexión:
 
-![Conexion en el ESP32](/image.png)
+![Conexion en el ESP32](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20endender%20y%20apagar%20un%20LED%20con%20un%20pulsador/image.png)
 
-Recuerda que puedes comprobar la simulación de la practica en [Wokwi](https://wokwi.com/) usando el archivo [SimulacionWorkwi](/SimulacionWokwi.zip)
+Recuerda que puedes comprobar la simulación de la practica en [Wokwi](https://wokwi.com/) usando el archivo [SimulacionWorkwi](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20endender%20y%20apagar%20un%20LED%20con%20un%20pulsador/SimulacionWokwi.zip)
 
 Para tus siguientes practica debes de recordar los siguiente:
 
