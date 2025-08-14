@@ -28,6 +28,9 @@ El repositorio está organizado en tres módulos temáticos, conforme al program
   Estudio y uso de placas de desarrollo (Arduino, Raspberry Pi), sensores, actuadores y su programación.
   - [Placa de desarrollo ESP32](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Placas_de_desarrollo_ESP32.pdf)
   - [Fundamentos teoricos de sensores y actuadores](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Fundamentos_sensore_y_actuadores.pdf)
+  - [Práctica LED y pulsador](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20endender%20y%20apagar%20un%20LED%20con%20un%20pulsador/PracticaLedPulsador.md)
+  - [Práctica LED y sensor LDR(PWM)]()
+  - [Practica Servomotor]()
   - [Práctica sensor digital DH11](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20ESP32%20%2B%20DH11/ESP32_DH11.md)
   - Práctica sensor analógico (proximamente)
   - Práctica de actuadores (proximamente)
