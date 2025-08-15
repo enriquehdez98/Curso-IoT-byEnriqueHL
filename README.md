@@ -30,7 +30,7 @@ El repositorio está organizado en tres módulos temáticos, conforme al program
   - [Fundamentos teoricos de sensores y actuadores](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Fundamentos_sensore_y_actuadores.pdf)
   - Digital write-read: [Práctica LED y pulsador](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20endender%20y%20apagar%20un%20LED%20con%20un%20pulsador/PracticaLedPulsador.md)
   - Analog write-read: [Práctica LED y sensor LDR (PWM)](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20LED%20y%20sensor%20LDR/PracticaSensorLDRyLED.md)
-  - Práctica de actuadores: [Servomotores]()
+  - Práctica de actuadores: [Servomotores](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/ServoMotor/ServoMotir.md)
   - Práctica sensores analogicos: [Reto 1]() 
   - [Práctica sensor digital DH11](https://github.com/enriquehdez98/Curso-IoT-byEnriqueHL/blob/main/Clase%202%20Sensores%20y%20datos/Practica%20ESP32%20%2B%20DH11/ESP32_DH11.md)
   
