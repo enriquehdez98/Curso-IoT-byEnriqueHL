@@ -37,14 +37,13 @@ El **DHT11** es un **sensor digital** que mide temperatura y humedad. Envía los
 | DATA  | GPIO 4 (puedes usar otro) |
 | GND   | GND   |
 
-> 💡 Si usas un módulo DHT11 (placa azul), ya incluye la resistencia pull-up interna.
 
 <img src="https://i.pinimg.com/736x/35/cd/75/35cd757f963ceb569b72e1222338320b.jpg" alt="Conexion ESP32 y DGT11" width="400"/>
 
 o
 
 <img src="https://circuitdigest.com/sites/default/files/circuitdiagram_mic/ESP32-interfacing-with-dht11.png" alt="Conexion ESP32 y DGT11" width="400"/>
-
+> 💡 Si usas un módulo DHT11 (placa azul), ya incluye la resistencia pull-up interna.
 
 
 
